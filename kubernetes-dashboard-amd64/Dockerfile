@@ -1,2 +1,2 @@
-FROM gcr.io/google_containers/kubernetes-dashboard-amd64:v1.9.5
+FROM gcr.io/google_containers/kubernetes-dashboard-amd64:latest
 MAINTAINER mritd <mritd@mritd.me>
